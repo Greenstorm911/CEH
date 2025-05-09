@@ -1,6 +1,6 @@
 # CEH Notes  
 **As the name of God, I’m a green hat hacker.**
-
+**this repo is incomplate yet**
 ---
 
 ## Things to Install and Download  
